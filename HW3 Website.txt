@@ -1,0 +1,6 @@
+﻿https://nidhitadepalli.github.io/ds4200/ 
+
+
+
+
+In my website I have changed the font family to Times New Roman and I have included 0 padding and margin so that all the text goes to the edges of the page. I have created a header and changed the color of it to purple for a creative aspect and I have aligned the text to be in the center. I have also included a footer that allows the user to navigate back to the top of the page. There are also 3 different pages in the site. There is the home page about me, the skills page, and the contact page. The picture of myself is also in a special placement so that it falls underneath the paragraphs. I have also changed the margins of the navigation bar.
