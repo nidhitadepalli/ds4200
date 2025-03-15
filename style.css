@@ -1,0 +1,84 @@
+body {
+    font-family: 'Times New Roman', Times;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+header {
+    background: #7565cc;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+nav {
+    text-align: center;
+    margin-top: 1rem;
+}
+nav a {
+    margin: 0 1rem;
+    color: #7565cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 2rem auto;
+}
+footer {
+    text-align: center;
+    background: #f4f4f4;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+footer a {
+    color: #7565cc;
+    text-decoration: none;
+}
+
+.about-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem; /* adds space between text and image */
+}
+
+.about-text {
+    flex: 1;
+    max-width: 60%; /* adjusts width of text area */
+}
+
+.about-image {
+    flex: 1;
+    text-align: center; /* centers the image within its container */
+}
+
+.about-image img {
+    width: 250px;
+    height: auto;
+}
+
+.skills-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem; /* adds space between text and image */
+}
+
+.skills-text {
+    flex: 1;
+    max-width: 60%; /* adjusts width of text area */
+}
+
+.skills-image {
+    flex: 1;
+    text-align: center; /* centers the image within its container */
+}
+
+.skills-image img {
+    width: 250px;
+    height: auto;
+}
